@@ -9,3 +9,6 @@
 *.session
 /SubVer.ahk
 /__debug.ahk
+.vscode/settings.json
+.gitignore
+.gitignore
